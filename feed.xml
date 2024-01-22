@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>WO Landing</title>
+    <link href="https://www.walshovalle.com/feed.xml" rel="self" />
+    <link href="https://www.walshovalle.com" />
+    <updated>1969-12-31T20:00:00-04:00</updated>
+    <author>
+        <name>wo</name>
+    </author>
+    <id>https://www.walshovalle.com</id>
+
+</feed>
