@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.walshovalle.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.walshovalle.com/es/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.walshovalle.com/</loc>
+<loc>https://www.walshovalle.com/es/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/archivos-de-proyectos/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/chilean-culture-and-heritage-website/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/chilean-heritage-and-culture-book-design/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/ebook-for-a-chilean-culture-and-heritage-project/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/ebook-for-a-university-gastronomy-course/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/info/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/minimal-fast-website-for-web-designer-and-developer-in-chile/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/modern-clean-website-for-professor-and-chef/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/plantillas-wordpress/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/print-labels-for-a-hot-sauce-line/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/publii-cms-spanish-translation/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/test-post-1/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/test-post-2/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/blog/test-post-3/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/tag/blog/</loc>
+</url>
+<url>
+<loc>https://www.walshovalle.com/es/tag/delightful-digital-designs/</loc>
 </url>
 </urlset>
